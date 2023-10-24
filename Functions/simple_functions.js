@@ -2,12 +2,12 @@
 
 function favoriteThings() {
 
-    let aboutMe =("My Name is : Niya Williams" + " " + 
-    "My Favorite Movie is: Mean Girls" + " " + 
-    "My Favortite musician is: Lauryn Hill");
-   return aboutMe
+    console.log("My Name is : Niya Williams")
+   console.log("My Favorite Movie is: Mean Girls")
+   console.log("My Favortite musician is: Lauryn Hill")
+   
 }
-    console.log(favoriteThings())
+    favoriteThings()
 
 
 
