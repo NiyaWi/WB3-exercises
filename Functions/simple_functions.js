@@ -1,7 +1,13 @@
 "use strict;"
 
-favoriteThings(){
-    console.log("Food")
-    console.log("Plants")
-    console.log("Learning and growing")
+function favoriteThings() {
+
+    let aboutMe =("My Name is : Niya Williams" + " " + 
+    "My Favorite Movie is: Mean Girls" + " " + 
+    "My Favortite musician is: Lauryn Hill");
+   return aboutMe
 }
+    console.log(favoriteThings())
+
+
+
