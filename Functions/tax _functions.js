@@ -35,7 +35,8 @@ else if(WithCode = 3){
 else if (WithCode = 4){
     aftTax = grossPay*0.18 
 }
-
+else if(WithCode = 5)
+aftTax = grossPay*0.18
     let taxWithAmnt  = aftTax;
     
     return taxWithAmnt
